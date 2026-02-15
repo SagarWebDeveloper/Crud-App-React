@@ -39,6 +39,7 @@ This project focuses on **🧼 clean code structure**, **♻️ reusable compone
 | 🌐 **REST API** | Backend communication |
 
 ---
+
 ## 🧠 What I Learned
 
 📌 Building real-world CRUD applications using **React**  
@@ -60,6 +61,23 @@ This project focuses on **🧼 clean code structure**, **♻️ reusable compone
 
 ---
 
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](Screenshot/Crud-1.jpg)
+
+### ➕ View Student
+![Add Student](Screenshot/Crud-2.jpg)
+
+### ✏️ Update Student
+![Edit Student](Screenshot/Crud-3.jpg)
+
+### ❌ Delete Student
+![Delete Student](Screenshot/Crud-4.jpg)
+
+---
 
 ## Author
-@ Sagar
+**Sagar** – [Portfolio](https://sagar-portfolio-mern.netlify.app/) | [LinkedIn](https://www.linkedin.com/in/sagar-web-dev/)
+
+---
